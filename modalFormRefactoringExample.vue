@@ -1,4 +1,5 @@
-// Not usual code style, mb some dev. not alway wouild understand but it could be much more faster then CASE or else, in case when you have for examle 100 forms or 1000 ???)) 
+// Not usual code style, mb some dev. wouild not alway understand this on quck view, 
+but it could be much more faster then 'CASE' or 'ELSE', in case when you have for examle 100 forms or 1000 ???)
 
 
 <!--- This is code refactoring example of modal form components --> 
