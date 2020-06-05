@@ -1,4 +1,4 @@
-<!--- This is code refactoring example of modal form components ---> 
+<!--- This is code refactoring example of modal form components --> 
 
 <template>
   <div>
